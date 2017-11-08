@@ -1,4 +1,2 @@
-# 8puzzle
-Coursera Princetone University Algorithms Course 1
-
-8 Puzzle Assignment 
+# Coursera Princetone University Algorithms Course 1
+Assignments of Week 1 -5
